@@ -1,0 +1,28 @@
+!DOCTYPE html
+html lang="en"
+head>
+<title>mark</title>
+<meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>replit</title>
+        <link rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"></script>
+
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+    </head>
+
+    <body>
+        <div class="container mt-5">
+            <div class="card" style="width: 18rem;"  >
+                <img class="card-img-top" src=
+                "https://in.images.search.yahoo.com/yhs/view;_ylt=Awrx_o2eeVJpDZUg_McO9olQ;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzYzOWE2MjI2ZDM1MWE4YzhkZTNjMmFiOTk2ZTFlODRmBGdwb3MDOARpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fyhs%2Fsearch%3Fp%3Dprofile%2Bpicture%26ei%3DUTF-8%26type%3Dtype80160-2997521645%26fr%3Dyhs-sz-002%26fr2%3Dsa-gp-search%26hsimp%3Dyhs-002%26hspart%3Dsz%26param1%3D2401685491%26tab%3Dorganic%26ri%3D8&w=512&h=512&imgurl=www.profilebakery.com%2Fwp-content%2Fuploads%2F2023%2F04%2FProfile-Image-AI.jpg&rurl=https%3A%2F%2Fwww.profilebakery.com%2Fen%2Fprofile-picture-ai%2F&size=31KB&p=profile+picture&oid=639a6226d351a8c8de3c2ab996e1e84f&fr2=sa-gp-search&fr=yhs-sz-002&tt=Profile+picture+AI+%E2%80%93+easily+get+the+perfect+profile+picture&b=0&ni=140&no=8&ts=&tab=organic&sigr=91dgxzjMvJkU&sigb=f5CzJ5vR8y1n&sigi=rmXnksTph0Hf&sigt=TNlfbTy6xKgC&.crumb=zTPXz/QT8FF&fr=yhs-sz-002&fr2=sa-gp-search&hsimp=yhs-002&hspart=sz&type=type80160-2997521645&param1=2401685491.jpg"
+                                                 alt="card image flower">
+    <div class="card body">
+        <h5 class="card-body">
+        <p class="card-text">passionate about programming.</p> 
+        <a href="a" class="btn btn-primary">see profile</a>
+        </div>
+            </div>
+        </div>
+    </body>
+</html>
